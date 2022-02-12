@@ -6,3 +6,5 @@ You need to install node. <https://nodejs.org/en/download/> Node also includes n
 
 After installing node run the command "npm start" in your terminal and you should see see no errors.
 In your browser go to <http://localhost:8080/> and you should see the message "Hello Paloma!"
+
+I was using this tutorial: <https://www.robinwieruch.de/webpack-babel-setup-tutorial/>
