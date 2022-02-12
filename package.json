@@ -1,0 +1,21 @@
+{
+  "name": "video-site-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinchristensen/video-site-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinchristensen/video-site-frontend/issues"
+  },
+  "homepage": "https://github.com/austinchristensen/video-site-frontend#readme"
+}
